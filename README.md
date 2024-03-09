@@ -71,7 +71,6 @@ SEASONAL ADJUSTMENT:
 
 LOG TRANSFORMATION:
 
-![1b 3](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/029abe7a-9ace-47f6-9310-22965b30196e)
 
 ![1b 4](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/843424a7-5bef-446b-9202-8f1ec300fe5f)
 
