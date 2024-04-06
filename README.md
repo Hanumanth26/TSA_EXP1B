@@ -62,17 +62,19 @@ plt.xlabel('Log- Transformed data')
 
 REGULAR DIFFERENCING:
 
-![1b 1](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/0c2aea55-6583-45b9-9f18-84041c787275)
+
+![WhatsApp Image 2024-04-06 at 13 37 46_6bc2c8be](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/02576369-90a5-429c-8f69-91d94739321b)
 
 
 SEASONAL ADJUSTMENT:
 
-![1b 2](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/30a46ab4-85e8-4a44-84fb-31943e29baf4)
+![WhatsApp Image 2024-04-06 at 13 37 46_001d0334](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/789e8672-8f87-4c0d-8257-06abcbee1eba)
+
 
 LOG TRANSFORMATION:
 
+![WhatsApp Image 2024-04-06 at 13 37 46_bf5d6df3](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/66fd5bfb-9096-4200-973e-313d4c617c88)
 
-![1b 4](https://github.com/Hanumanth26/TSA_EXP1B/assets/121033192/843424a7-5bef-446b-9202-8f1ec300fe5f)
 
 
 
